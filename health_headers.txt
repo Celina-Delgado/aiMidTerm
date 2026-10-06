@@ -1,0 +1,23 @@
+HTTP/1.1 404 Not Found
+Date: Tue, 06 Oct 2026 18:44:29 GMT
+Content-Type: text/plain; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+CF-Ray: a466d1506b40c990-IAD
+CF-Cache-Status: DYNAMIC
+Access-Control-Allow-Origin: *
+set-cookie: __cf_bm=wtjHGzMTTmoR25AUNhXyH3ZvtQKkAOcyoQKP_wnsoiI-1791312268.8690886-1.0.1.1-rSzd1UV.EIWQPs1By3dK.WptBVIdy0oVPVsbwO8XXl8hn0si6YAnmuCjAjMQodKObFJkgc44MZilFAQwKp9wkIIMzXtMEfZ2f_3W9311NW6cxwDC79g.iXRqNtGxiaTq; HttpOnly; SameSite=None; Secure; Path=/; Domain=supabase.co; Expires=Tue, 06 Oct 2026 19:14:29 GMT
+Server: cloudflare
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+access-control-expose-headers: Content-Length
+endpoint-load-metrics: application_utilization:7,named_metrics.queue_depth:7
+sb-gateway-version: 1
+sb-project-ref: uuvwwibwsviknnrxmnku
+sb-request-id: 01a11288-0e4c-7baa-a7ac-41b2e38f98c4
+x-deno-execution-id: 93a43545-be64-45f0-935f-5e49a868afaa
+x-sb-edge-region: us-east-1
+x-served-by: supabase-edge-runtime
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+alt-svc: h3=":443"; ma=86400
+

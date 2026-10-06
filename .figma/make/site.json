@@ -1,0 +1,10 @@
+{
+  "description": "This app helps gamers track their gaming habits, set limits, and manage time effectively to reduce addiction and promote healthier gaming practices.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
